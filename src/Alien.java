@@ -1,4 +1,4 @@
-package SpaceInvaders;
+// package src;
 import java.awt.Graphics;
 import java.awt.Rectangle;
 import javax.swing.ImageIcon;
@@ -16,7 +16,7 @@ public class Alien {
         this.x = x;
         this.y = y;
         this.direction = 1;
-        alienImage = new ImageIcon("SpaceInvaders/src/SpaceInvaders/Alien.gif");
+        alienImage = new ImageIcon("src/Alien.gif");
     }
 
     public void draw(Graphics g) {

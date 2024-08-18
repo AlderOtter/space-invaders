@@ -16,9 +16,10 @@
  * barriers that wear down
  * moving backround
  * get the speed algorithm right: consider remaining aliens and y
+ * Fire just one bullet at a time
  */
 
-package SpaceInvaders;
+// package src;
 import javax.swing.*;
 import java.awt.*;
 import java.awt.event.*;
